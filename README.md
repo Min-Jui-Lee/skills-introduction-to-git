@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stack Overflown
 
 一個以程式設計與除錯主題為靈感的瀏覽器方塊消除遊戲。玩家需要排列落下的方塊，將目標中的錯誤圖樣「修正」掉，避免堆疊過高導致遊戲結束。
@@ -88,3 +89,6 @@ http://localhost:8000/src/index.html
 
 本專案使用 MIT License。詳細內容請參閱 [LICENSE](LICENSE)。
 
+=======
+# hello
+>>>>>>> a1daa189fbe6a239f9c5d257a2cc3d1d91cdb004
