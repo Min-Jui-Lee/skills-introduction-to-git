@@ -90,5 +90,3 @@ http://localhost:8000/src/index.html
 本專案使用 MIT License。詳細內容請參閱 [LICENSE](LICENSE)。
 
 =======
-# hello
->>>>>>> a1daa189fbe6a239f9c5d257a2cc3d1d91cdb004
